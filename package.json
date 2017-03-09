@@ -1,0 +1,15 @@
+{
+  "name": "remark",
+  "main": "./lib/remark",
+  "version": "0.0.0",
+  "description": "Remark reflows the text of your markdown files.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/remark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

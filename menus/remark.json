@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Remark: Reflow",
+        "command": "remark:reflow"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "remark",
+          "submenu": [
+            {
+              "label": "Reflow",
+              "command": "remark:reflow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
