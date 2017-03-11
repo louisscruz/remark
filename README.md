@@ -1,3 +1,3 @@
 # Remark
 
-Remark reflows your markdown files.
+Remark reflows the text of your markdown files.
