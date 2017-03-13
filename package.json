@@ -1,7 +1,7 @@
 {
   "name": "Remark",
   "main": "./lib/remark",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Remark reflows the text of your markdown files.",
   "keywords": [],
   "repository": "https://github.com/louisscruz/remark",
