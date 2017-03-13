@@ -2,13 +2,13 @@
 
 ## Elements that Wrap
 
-This should all be within the character maximum. This line was
-originally very, very long. It just kept going and going and going and
-going and going and going and going and going and going and going and
-going and going and going and going and going and going and going and
-going and going and going and going and going and going and going and
-going...
+### Text
 
+This should all be within the character maximum. This line was something
+originally very, very long. It just kept going and test going and going
+and going...
+
+### List Items
 
 1. This is a very, very, very long list item. It will automatically wrap
 to the next line (without tabs).
