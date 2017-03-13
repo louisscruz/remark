@@ -5,7 +5,7 @@
   "description": "Remark reflows the text of your markdown files.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/remark",
+  "repository": "https://github.com/louisscruz/remark",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
