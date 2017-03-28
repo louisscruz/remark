@@ -1,3 +1,2 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## 1.1.1
+* This release fixes an error that would appear when saving a new file.
